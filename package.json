@@ -1,0 +1,8 @@
+{
+  "name": "fullstack-nextjs-apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AwakenedMind/fullstack-nextjs-apollo.git",
+  "author": "Robert Arteaga <daspanisharmada@gmail.com>",
+  "license": "MIT"
+}
