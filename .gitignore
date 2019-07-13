@@ -39,3 +39,4 @@ build/Release
 
 #backend
 lift.lock
+dev.db
