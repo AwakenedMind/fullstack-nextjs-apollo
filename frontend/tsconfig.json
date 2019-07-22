@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "allowJs": true /* Allow Javascript files to be typed checked*/,
+    "alwaysStrict": true /* Strict Mode always */,
+    "esModuleInterop": true /* Module compilation*/,
+    "isolatedModules": true /* Webpack loader*/,
+    "jsx": "preserve" /* preserve JSX */,
+    "lib": ["dom", "es2017"] /* Library files to be type checked */,
+    "module": "esnext" /* Specifies the type of module to be checked */,
+    "moduleResolution": "node" /* How modules are resolves*/,
+    "noEmit": true /* No emits are outputted */,
+    "noFallthroughCasesInSwitch": true /* Report errors for fallthrough casses in switch op*/,
+    "noUnusedLocals": true /* No zombie code*/,
+    "noUnusedParameters": true /* All params must be used */,
+    "strict": true /* Strict type-checking only */,
+    "target": "esnext" /* Type checking input */,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+}
